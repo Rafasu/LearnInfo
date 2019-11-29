@@ -1,8 +1,7 @@
 # Learning places.
 
-## Front-End Dev.
+## Front-End Dev.
 
-### CSS:
- 
-	* Flexbox: 
-		(What the Flexbox)[https://flexbox.io/]: A simple free course of flexbox. 
+### CSS:
+* Flexbox: 
+(What the Flexbox)[https://flexbox.io/] : A simple free course of flexbox. 
